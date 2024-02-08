@@ -1,4 +1,4 @@
-# Flutter Netflix Responsive UI Tutorial | Web and Mobile
+# Flutter Netflix Responsive UI  | Web and Mobile
 
 ![Web Screenshot](screenshots/web.png)
 
